@@ -1,0 +1,68 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: comic sans ms;
+}
+
+#nav-heading{
+	width:100%;
+
+	
+}
+
+header{
+	height: 80px;
+}
+
+.navbar-brand{
+	padding: 0px;
+}
+
+#heading{
+	background-color: rgb(100,100,100);
+	width:100%;
+	padding: 10px;
+}
+
+#nav-heading #heading h1{
+	vertical-align: middle;
+}
+
+#nav-list{
+	text-align: center;
+	background-color: rgb(200,200,200);
+	color:rgb(50,50,50);
+	border: 1px solid black;
+	
+}
+
+#nav-list li{
+	border: 1px solid black;
+}
+
+#nav-list a:hover{
+	background-color: rgb(150,150,150);
+}
+
+#d1,#d2,#d3{
+	background-color: rgb(150,150,150);
+	margin-top: 15px;
+}
+
+#dh1,#dh2,#dh3{
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+#collapsable-nav{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+#our-menu-div{
+	
+
+}
